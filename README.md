@@ -1,7 +1,7 @@
 <h1 align="center">
   <b>j3andz</b>
   
-  <p><a href="https://t.me/Panda_j3andz"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"            width="100""/></a></p>
+  <p><a href="https://t.me/Code148"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"            width="100""/></a></p>
   </a></p>
 </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=j3andz&label=Profile%20views&color=E95420&style=flat-square" alt="Vasusen" /> </p>
