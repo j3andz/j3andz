@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>j3andz</b>
+  <b>J3an</b>
   
   <p><a href="https://t.me/j3an148"> <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white"            width="100""/></a></p>
   </a></p>
